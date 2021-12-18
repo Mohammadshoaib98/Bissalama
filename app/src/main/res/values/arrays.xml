@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_name">
+        <item>Damascus</item>
+        <item>Aleppo</item>
+        <item>Homs</item>
+        <item>Hama</item>
+        <item>AL_Hasaka</item>
+        <item>AL_Raqa</item>
+        <item>Edlib</item>
+        <item>Daraa</item>
+    </string-array>
+    <string-array name="user_type">
+        <item>Clerk</item>
+        <item>Passenger</item>
+        <item>Agency</item>
+    </string-array>
+    <string-array name="clerk_number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+
+</resources>

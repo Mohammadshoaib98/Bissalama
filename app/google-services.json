@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "10604455679",
+    "project_id": "register-cf624",
+    "storage_bucket": "register-cf624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10604455679:android:91b5c73b44ad5f77bcceca",
+        "android_client_info": {
+          "package_name": "com.example.regester"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10604455679-l8kd0395vdn0jbjrduk8haeetg662ogn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbTRbRGDpcc2Nvgo_itDhzqkk6ArpqVsI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10604455679-l8kd0395vdn0jbjrduk8haeetg662ogn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
