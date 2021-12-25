@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.regester">
+
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="false"
+        android:theme="@style/Theme.Register">
+        <activity
+            android:name=".activites.ActivitySeatsBookMangement"
+            android:exported="true" />
+        <activity
+            android:name=".activites.ActivityAddCode"
+            android:exported="true" />
+        <activity
+            android:name=".activites.ActivityClerkJourneysDisplay"
+            android:exported="true" />
+        <activity android:name=".activites.ActivityJourneysSearch" />
+        <activity android:name=".activites.ActivityPassengersSeats" />
+        <activity android:name=".activites.ActivityBookSeat" />
+        <activity android:name=".activites.ActivityUpdate" />
+        <activity android:name=".activites.ActivityMain" />
+        <activity android:name=".activites.MainActivityPassenger" />
+        <activity android:name=".activites.MainActivityClerk" />
+        <activity android:name=".activites.MainActivityAgency" />
+        <activity android:name=".activites.ActivityAgencyJourneysDisplay" />
+        <activity android:name=".activites.ActivityAddJourney" />
+        <activity android:name=".activites.ActivitySignUp">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activites.ActivityPassengerJourneysDisplay" />
+        <activity android:name=".activites.ActivityLogIn"></activity>
+    </application>
+
+</manifest>

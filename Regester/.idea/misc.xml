@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Regester/app/src/main/res/drawable-v21/check_box_select.xml" value="0.240625" />
+        <entry key="..\:/Regester/app/src/main/res/drawable-v21/ic_menu_camera.xml" value="0.2361111111111111" />
+        <entry key="..\:/Regester/app/src/main/res/drawable/check_box.xml" value="0.240625" />
+        <entry key="..\:/Regester/app/src/main/res/drawable/ic_baseline_email_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Regester/app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Regester/app/src/main/res/drawable/ic_baseline_search.xml" value="0.2169230769230769" />
+        <entry key="..\:/Regester/app/src/main/res/drawable/ic_baseline_security_24.xml" value="0.2169230769230769" />
+        <entry key="..\:/Regester/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2169230769230769" />
+        <entry key="..\:/Regester/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2169230769230769" />
+        <entry key="..\:/Regester/app/src/main/res/layout-v21/activity_book_seat.xml" value="0.22447916666666667" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_add_clerk.xml" value="0.15416666666666667" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_add_code.xml" value="0.22" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_book_seat.xml" value="0.25" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_clerk.xml" value="0.22447916666666667" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_clerk_journeys_display.xml" value="0.14583333333333334" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_journeys_display.xml" value="0.20416666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_journeys_search.xml" value="0.22447916666666667" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_log_in.xml" value="0.22447916666666667" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_main_agency.xml" value="0.14285714285714285" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_main_clerk.xml" value="0.22447916666666667" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_main_nav_drawer2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_main_passenger.xml" value="0.12291666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_navigation_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_passenger_journeys_display.xml" value="0.12291666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_passengers_seats.xml" value="0.22447916666666667" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_seats_book_mangment.xml" value="0.1234375" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_select_city.xml" value="0.12291666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/activity_update.xml" value="0.12291666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/app_bar_main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Regester/app/src/main/res/layout/app_bar_main_activity_nav_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/content_main_activity_nav_drawer.xml" value="0.19010416666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/gallery_fragment.xml" value="0.1" />
+        <entry key="..\:/Regester/app/src/main/res/layout/home_fragment.xml" value="0.12" />
+        <entry key="..\:/Regester/app/src/main/res/layout/item_seat.xml" value="0.15" />
+        <entry key="..\:/Regester/app/src/main/res/layout/main_nav_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/main_toolbar.xml" value="0.20416666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/my_row.xml" value="0.12291666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/nav_header.xml" value="0.19722222222222222" />
+        <entry key="..\:/Regester/app/src/main/res/layout/nav_header_main.xml" value="0.20416666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/row_clerk_journey.xml" value="0.22447916666666667" />
+        <entry key="..\:/Regester/app/src/main/res/layout/row_journey.xml" value="0.12291666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/row_passengers_seats.xml" value="0.22447916666666667" />
+        <entry key="..\:/Regester/app/src/main/res/layout/row_results_route.xml" value="0.22447916666666667" />
+        <entry key="..\:/Regester/app/src/main/res/layout/row_user_journeys.xml" value="0.12291666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/layout/sign_up.xml" value="0.25" />
+        <entry key="..\:/Regester/app/src/main/res/layout/update_popup.xml" value="0.12291666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/menu/activity_main_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/menu/drawer_menu.xml" value="0.67" />
+        <entry key="..\:/Regester/app/src/main/res/menu/main.xml" value="0.22447916666666667" />
+        <entry key="..\:/Regester/app/src/main/res/menu/main_activity_nav_drawer.xml" value="0.20416666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/menu/my_navigation_items.xml" value="0.11041666666666666" />
+        <entry key="..\:/Regester/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.13958333333333334" />
+        <entry key="..\:/Regester/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.13958333333333334" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/drawable/bottun_bg_color.xml" value="0.1" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/drawable/button_shape.xml" value="0.2203125" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/drawable/cancel.xml" value="0.2203125" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/drawable/check_box.xml" value="0.2203125" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2203125" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/drawable/ic_launcher_foreground.xml" value="0.2203125" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/drawable/round_btn.xml" value="0.1" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_book_seat.xml" value="0.22" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_book_seat2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_journeys_display.xml" value="0.1" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_journeys_search.xml" value="0.33" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_log_in.xml" value="0.25" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_main_agency.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_main_clerk.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_main_passenger.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_passenger_journeys_display.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_select_city.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_select_depart_seat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_selected_seat.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/activity_update.xml" value="0.18" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/my_row.xml" value="0.17083333333333334" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/row_item.xml" value="0.1" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/row_journey.xml" value="0.25" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/row_results_route.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/row_user_journeys.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/sign_up.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/layout/update_popup.xml" value="0.33" />
+        <entry key="..\:/Users/SHOAIB/AndroidStudioProjects/Regester/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.2203125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

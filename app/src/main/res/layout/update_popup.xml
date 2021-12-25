@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="#00CEC9"
+        android:gravity="center"
+        android:text="Update Details"
+        android:textColor="#616161"
+        android:textSize="25dp" />
+
+    <Button
+        android:id="@+id/btn_date_update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/select_date"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_date_update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="0dp"
+        android:layout_marginBottom="30dp"
+        android:textAlignment="center"
+        android:textColorHint="#0091EA"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_time_update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/select_time"
+        android:textSize="20sp" />
+
+    <TextView
+        android:id="@+id/tv_time_update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginBottom="30dp"
+        android:textAlignment="center"
+        android:textColorHint="#0091EA"
+        android:textSize="28sp"
+        android:textStyle="bold" />
+
+    <Button
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="10dp"
+        android:text="update"
+        android:textSize="21dp"
+        android:background="@drawable/rounded"
+        android:gravity="center"
+       android:id="@+id/btn_update"
+        />
+
+</LinearLayout>

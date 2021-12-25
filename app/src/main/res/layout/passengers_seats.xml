@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+
+       <androidx.constraintlayout.widget.ConstraintLayout
+           android:layout_width="match_parent"
+           android:layout_height="match_parent">
+           <LinearLayout
+               android:id="@+id/linearLayout_map"
+               android:layout_width="match_parent"
+               android:layout_height="50dp"
+               android:gravity="center"
+               android:orientation="horizontal"
+               app:layout_constraintEnd_toEndOf="parent"
+               app:layout_constraintStart_toStartOf="parent"
+               app:layout_constraintTop_toTopOf="parent">
+
+               <TextView
+                   android:id="@+id/tv_item_select"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginTop="8dp"
+                   android:drawableEnd="@drawable/check_box_select"
+                   android:gravity="center_horizontal"
+                   android:text="Select"
+                   android:textAlignment="center"
+                   android:textColor="#2E2D2D"
+                   android:textSize="22sp"
+                   android:textStyle="bold" />
+
+
+               <TextView
+                   android:id="@+id/tv_item_booked"
+                   android:layout_width="wrap_content"
+                   android:layout_height="wrap_content"
+                   android:layout_marginLeft="10dp"
+                   android:layout_marginTop="8dp"
+                   android:drawableEnd="@drawable/check_box_booked"
+                   android:gravity="center_horizontal"
+                   android:text="Booked"
+                   android:textAlignment="center"
+                   android:textColor="#2E2D2D"
+                   android:textSize="22sp"
+                   android:textStyle="bold" />
+
+
+           </LinearLayout>
+
+           <androidx.recyclerview.widget.RecyclerView
+               android:id="@+id/_recycler_passengers_seats"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_marginStart="40dp"
+               android:layout_marginTop="25dp"
+               app:layout_constraintTop_toBottomOf="@id/linearLayout_map"
+               />
+
+           <LinearLayout
+               android:id="@+id/ll_action_buttons"
+               android:layout_width="match_parent"
+               android:layout_height="wrap_content"
+               android:layout_marginTop="20dp"
+               android:orientation="horizontal"
+               android:gravity="center_horizontal"
+               app:layout_constraintTop_toBottomOf="@id/_recycler_passengers_seats"
+               app:layout_constraintBottom_toBottomOf="parent"
+               app:layout_constraintEnd_toEndOf="parent"
+               app:layout_constraintStart_toStartOf="parent">
+
+
+               <Button
+                   android:id="@+id/btn_confirm_row"
+                   android:layout_width="wrap_content"
+                   android:layout_height="48dp"
+                   android:layout_marginEnd="32dp"
+                   android:layout_marginStart="80dp"
+                   android:text="Confirm" />
+
+
+               <Button
+                   android:id="@+id/btn_cancel_row"
+                   android:layout_width="wrap_content"
+                   android:layout_height="48dp"
+                   android:layout_marginEnd="80dp"
+                   android:text="Cancel" />
+
+           </LinearLayout>
+
+       </androidx.constraintlayout.widget.ConstraintLayout>
+    </androidx.core.widget.NestedScrollView>
+
+
