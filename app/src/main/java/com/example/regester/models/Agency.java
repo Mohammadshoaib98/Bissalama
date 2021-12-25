@@ -4,8 +4,8 @@ import java.util.HashMap;
 
 public class Agency extends User {
 
-    HashMap<String, Object> clerks = new HashMap<String, Object>();
-    HashMap<String, Object> journeys = new HashMap<String, Object>();
+    HashMap<String, Object> clerks;
+    HashMap<String, Object> journeys = new HashMap<>();
 
     public Agency(HashMap<String, Object> clerks, HashMap<String, Object> journeys) {
         this.clerks = clerks;
